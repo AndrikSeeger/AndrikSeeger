@@ -5,6 +5,6 @@
 
 📹 Videos, repository and documentation of the E-Longboard coming soon
 
-💻 I'm a corporate student at the DHBW in Stuttgart, Germany. My subject is IT-Automotive (technical computer science along with automotive systems).
+💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems).
 
 
