@@ -1,5 +1,5 @@
 ### Hi, I'm Andrik Seeger and this is my profile
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/>
 
 🔭 I’m currently working on an all-wheel drive electric longboard with torque vectoring regarding the ISO 26262
 <!--
