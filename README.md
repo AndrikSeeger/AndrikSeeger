@@ -13,7 +13,7 @@
 
 Sneak peek of the longboard;
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png" alt="Marton Lederer" />
 </h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=andrikseeger&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark&&shbm_iconsatrue&title_coloraffffffBicon_colorsbb2acfBtext_coloradaf7dc3bg_color=191919-y">
