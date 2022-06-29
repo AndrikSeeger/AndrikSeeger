@@ -43,7 +43,7 @@
 				  background-clip: text;
 				  -webkit-background-clip: text;
 				  -webkit-text-fill-color: transparent;
-				  -webkit-animation: gradientText 3s ease infinite;
+				  -webkit-animation: gradientText 6s ease infinite;
 				  animation: gradientText 3s ease infinite;
 				}
       
