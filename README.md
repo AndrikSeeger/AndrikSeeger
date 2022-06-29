@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-### Hi, I'm Andrik and this is my profile <img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/>
+### Hi, I'm Andrik and this is my profile   <img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/>
 
 💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems)
 
