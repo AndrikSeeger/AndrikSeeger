@@ -11,6 +11,7 @@
 
 💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems)
 
+
 Sneak peek of the longboard:
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png" alt="Marton Lederer" />
