@@ -18,4 +18,4 @@ Sneak peek:
 
 <img src="https://github-readme-stats.vercel.app/api?username=andrikseeger&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark&&shbm_iconsatrue&title_coloraffffffBicon_colorsbb2acfBtext_coloradaf7dc3bg_color=191919-y">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikseeger&theme=github_dark&hide=makefile&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikseeger&theme=github_dark&hide=makefile&langs_count=4">
