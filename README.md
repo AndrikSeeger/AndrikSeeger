@@ -9,7 +9,7 @@
 
 📹 Videos, repository and documentation of the E-Longboard coming soon
 
-💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems).
+💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems)
 
 <img src="https://github-readme-stats.vercel.app/api?username=andrikseeger&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark&&shbm_iconsatrue&title_coloraffffffBicon_colorsbb2acfBtext_coloradaf7dc3bg_color=191919-y">
 
