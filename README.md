@@ -12,3 +12,5 @@
 💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems).
 
 <img src="https://github-readme-stats.vercel.app/api?username=andrikseeger&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark&&shbm_iconsatrue&title_coloraffffffBicon_colorsbb2acfBtext_coloradaf7dc3bg_color=191919-y">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrikseeger&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
