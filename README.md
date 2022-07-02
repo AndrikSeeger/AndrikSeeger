@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/name.svg"/>
 </h1>
 
-### Hi, I'm Andrik and this is my profile <p align="center"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p> 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p>
+### Hi, I'm Andrik and this is my profile <p align="right"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p> 
 
 💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems)
 
