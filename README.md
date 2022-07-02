@@ -7,7 +7,7 @@
 
 💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems)
 
-🔭 I’m currently working on an all-wheel drive electric longboard with torque vectoring regarding functional safety (ISO 26262)
+🛠 I’m currently working on an all-wheel drive electric longboard with torque vectoring regarding functional safety (ISO 26262)
 
 📹 Videos, repository and documentation of the E-Longboard coming soon
 
