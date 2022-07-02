@@ -10,9 +10,8 @@
 
 📹 Videos, repository and documentation of the E-Longboard coming soon
 
-<p font-style: oblique>
-Sneak peek:
-</p>
+
+**Sneak peek:**
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png" alt="Marton Lederer" />
 </h1>
