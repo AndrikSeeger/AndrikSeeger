@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikseeger&theme=github_dark&hide=makefile&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrikseeger&theme=github_dark&hide=makefile,puppet&langs_count=8">
 </p>
