@@ -4,16 +4,18 @@
 
 ### Hi, I'm Andrik and this is my profile <p align="right"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p> 
 
-💻 I'm a corporate student at the DHBW in Stuttgart, Germany studying IT-Automotive (technical computer science along with automotive systems)
+💻 Working as a Software Developer at Magna PT developing, applying and calibrating electric drive systems for BEV and PHEV vehicles 
 
-🛠 I’m currently working on an all-wheel drive electric longboard with torque vectoring regarding functional safety (ISO 26262)
+👨‍🎓 Studied IT-Automotive (technical computer science along with automotive systems) as a corporate student at the DHBW in Stuttgart, Germany
 
-📹 Videos, repository and documentation of the E-Longboard coming soon
+🛠 Continuing my student work on the development of an all-wheel drive electric longboard with torque vectoring regarding functional safety (ISO 26262)
+
+📹 Videos, repository and documentation of the E-Longboard soon to be published
 
 
 **_Sneak peek:_**
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png"/>
 </h1>
 
 <p align="center">
