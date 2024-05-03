@@ -4,13 +4,15 @@
 
 ### Hi, I'm Andrik and this is my profile <p align="right"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p> 
 
-💻 Working as a Software & Calibration Engineer at Magna PT developing, applying and calibrating electric drive systems for BEV and PHEV vehicles 
+👨‍🎓 Pursuing my master's degree in automotive engineering at the University of Applied Sciences in Hamburg
 
-👨‍🎓 Studied IT-Automotive (technical computer science along with automotive systems engineering) as a corporate student at the DHBW in Stuttgart, Germany
+💻 Over 4 years of experience at Magna PT developing and calibrating electric drive systems as well as dual-clutch transmissions
 
-🛠 Continuing my student work on the development of an all-wheel drive electric longboard with torque vectoring regarding functional safety (ISO 26262)
+👨‍🎓 Bachelor's degree in IT-Automotive (technical computer science) as a corporate student at the DHBW in Stuttgart
 
-📹 Videos, repository and documentation of the E-Longboard soon to be published (expected by the end of 2023)
+🛠 Continuing my bachelor student work on the development of an all-wheel drive electric longboard with torque vectoring regarding functional safety with ISO 26262
+
+📹 Videos, repository and documentation of the E-Longboard remain to be published
 
 
 **_Sneak peek:_**
