@@ -6,7 +6,7 @@
 
 👨‍🎓 Pursuing my master's degree in automotive engineering at the University of Applied Sciences in Hamburg
 
-💻 Over 4 years of experience at Magna PT developing and calibrating electric drive systems as well as dual-clutch transmissions
+💻 Over 4 years of experience at Magna PT developing and calibrating software for electric drive systems as well as dual-clutch transmissions
 
 👨‍🎓 Bachelor's degree in IT-Automotive (technical computer science) as a corporate student at the DHBW in Stuttgart
 
