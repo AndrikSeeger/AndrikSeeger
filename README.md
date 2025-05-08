@@ -31,6 +31,7 @@ Developing an all-wheel drive electric longboard featuring active torque distrib
 
 A fully functional powertrain dyno — built from the ground up in my garage — including embedded control, data acquisition, and signal processing.
 
+**_Sneak peek:_**
 ![Gesamt_Pruefstand_vorne](https://github.com/user-attachments/assets/ab932e17-12b8-433d-ace0-ce3e2ad54338)
 
 📹 Both projects will soon be published with videos, repositories, and documentation.
