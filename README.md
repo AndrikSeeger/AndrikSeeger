@@ -10,9 +10,9 @@ I'm a master's student in Automotive Engineering at the Hamburg University of Ap
 
 ### 👨‍💻 Background
 
-- 🎓 Bachelor’s degree in **Technical Computer Science** from DHBW Stuttgart (dual study program), specializing in automotive systems
+- 🎓 Bachelor’s degree in **Technical Computer Science** from the DHBW Stuttgart, specializing in automotive systems
 - 💼 Over 4 years of experience at **Magna Powertrain** in embedded development and application of drivetrain systems
-- 🌍 Practical experience across numerous projects, with a focus on efficient embedded software, powertrain systems, and data science
+- 🌍 Practical experience across numerous projects, with a focus on efficient embedded software, powertrain systems and data science
 
 ---
 
@@ -27,7 +27,7 @@ Developing an all-wheel drive electric longboard featuring active torque distrib
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png"/>
 </h1>
 
-🛠 **Custom Powertrain Test Bench (Dyno)**
+🛠 **Custom ICE-Powertrain Test Bench**
 
 A fully functional powertrain dyno — built from the ground up in my garage — including embedded control, data acquisition, and signal processing.
 
