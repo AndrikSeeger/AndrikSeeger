@@ -2,23 +2,42 @@
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/name.svg"/>
 </h1>
 
-### Hi, I'm Andrik and this is my profile <p align="right"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p> 
+### Hi, I'm Andrik 👋 <p align="right"><img src="https://komarev.com/ghpvc/?username=AndrikSeeger&style=flat-square&color=blue" alt=""/></p>
 
-👨‍🎓 Pursuing my master's degree in automotive engineering at the University of Applied Sciences in Hamburg
+I'm a master's student in Automotive Engineering at the Hamburg University of Applied Sciences, with a strong foundation in embedded systems, powertrain control, and hands-on engineering.
 
-💻 Over 4 years of experience at Magna Powertrain developing and calibrating software for electric drive systems as well as dual-clutch transmissions
+---
 
-👨‍🎓 Bachelor's degree in IT-Automotive (technical computer science) as a corporate student at the DHBW in Stuttgart
+### 👨‍💻 Background
 
-🛠 Continuing my bachelor student work on the development of an all-wheel drive electric longboard with torque vectoring regarding functional safety with ISO 26262
+- 🎓 Bachelor’s degree in **Technical Computer Science** from DHBW Stuttgart (dual study program), specializing in automotive systems
+- 💼 Over 4 years of experience at **Magna Powertrain** in embedded development and application of drivetrain systems
+- 🌍 Practical experience across numerous projects, with a focus on efficient embedded software, powertrain systems, and data science
 
-📹 Videos, repository and documentation of the E-Longboard remain to be published
+---
 
+### 🔧 Ongoing Projects
+
+🛠 **Electric Longboard with Torque Vectoring**
+
+Developing an all-wheel drive electric longboard featuring active torque distribution and safety architecture compliant with ISO 26262.
 
 **_Sneak peek:_**
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/AndrikSeeger/AndrikSeeger/master/Sneak_Peek_Longboard.png"/>
 </h1>
+
+🛠 **Custom Powertrain Test Bench (Dyno)**
+
+A fully functional powertrain dyno — built from the ground up in my garage — including embedded control, data acquisition, and signal processing.
+
+![Gesamt_Pruefstand_vorne](https://github.com/user-attachments/assets/ab932e17-12b8-433d-ace0-ce3e2ad54338)
+
+📹 Both projects will soon be published with videos, repositories, and documentation.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=andrikseeger&hide=prs,issues&count_private=true&show_icons=true&theme=github_dark&&shbm_iconsatrue&title_coloraffffffBicon_colorsbb2acfBtext_coloradaf7dc3bg_color=191919-y">
