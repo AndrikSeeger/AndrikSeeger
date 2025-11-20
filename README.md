@@ -10,7 +10,7 @@ I’m a self-employed engineer working across the stack — from low-level progr
 
 ### 👨‍💻 Background
 
-- 🎓 Master's degree in **Automotive Engineering** from the Hamburg University of Applied Sciences, specializing in drivetrain and chassis control systems
+- 🎓 Master's degree in **Automotive Engineering** from the Hamburg University of Applied Sciences
 - 📚 Bachelor’s degree in **Technical Computer Science** from the DHBW Stuttgart, specializing in automotive systems
 - 💼 Over 4 years of experience at **Magna Powertrain** in embedded development and application of drivetrain systems
 - 🌍 Practical experience across numerous projects, with a focus on embedded software, powertrain systems and data science
